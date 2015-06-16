@@ -32,6 +32,12 @@
 			margin: 16px 0 0 0;
 		}
 	</style>
+
+	<!-- Gotham -->
+	<script src="/javascripts/vendor.js"></script>
+	<script src="/javascripts/app.js"></script>
+	<script>require('initialize');</script>
+
 </head>
 <body>
 	<div class="welcome">
